@@ -1,7 +1,10 @@
-# _**Hello, I'm Aleksi Duluzauri**_
+# _**Hello, I'm Aleksi Duluzauri**_ 
+<div>
+<img src="https://repository-images.githubusercontent.com/481916412/ee6da881-0930-4229-b8bd-0b32cee86fea" width="300" height="300"/> 
+</div>
 
 ## **Skills:**
-
+<div>
 <div style="background-color:#2C3E50; color:white; padding: 5px 10px; display:inline-block;"><img src="https://img.icons8.com/color/16/000000/linux--v1.png"/> Linux</div>
 <div style="background-color:#F0DB4F; color:black; padding: 5px 10px; display:inline-block;"><img src="https://img.icons8.com/color/16/000000/javascript--v1.png"/> JavaScript</div>
 <div style="background-color:#42b883; color:white; padding: 5px 10px; display:inline-block;"><img src="https://img.icons8.com/color/16/000000/vue-js.png"/> Vue.js</div>
@@ -16,6 +19,9 @@
 <div style="background-color:#4479A1; color:white; padding: 5px 10px; display:inline-block;"><img src="https://img.icons8.com/color/16/000000/mysql-logo.png"/> MySQL</div>
 <div style="background-color:#13AA52; color:white; padding: 5px 10px; display:inline-block;"><img src="https://img.icons8.com/color/16/000000/mongodb.png"/> MongoDB</div>
 <div style="background-color:#FF7F50; color:white; padding: 5px 10px; display:inline-block;"><img src="https://img.icons8.com/color/16/null/mongoose.png"/> Mongoose</div>
+</div>
+
+
 
 ## **Summary**
 
